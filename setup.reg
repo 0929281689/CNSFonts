@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CHAJEI]
+"User Dictionary"="C:\\CNSFonts\\CHAJEI.TBL"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\PHON]
+"User Dictionary"="C:\\CNSFonts\\PHON.TBL"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion]
+"CharSet"="Default"
+
+[HKEY_CURRENT_USER\EUDC\950]
+"SystemDefaultEUDCFont"="C:\\CNSFonts\\EUDCMING.TTF"
+"新細明體"="C:\\CNSFonts\\EUDCMING.TTF"
+"細明體"="C:\\CNSFonts\\EUDCMING.TTF"
+"標楷體"="C:\\CNSFonts\\EUDCKAI.TTF"
